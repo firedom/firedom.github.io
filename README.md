@@ -1,2 +1,1 @@
-# My abstract pages.
-# http://firedom.github.io
+# [My Abstract Pages](http://firedom.github.io) 
